@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diptajit-dev-biswas
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Javascript, Java, Gen AI
+- 🌱 I’m currently learning ReactJS, Next JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
